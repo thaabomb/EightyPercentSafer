@@ -1,5 +1,5 @@
 # Objectives
-- To make the public aware of how the Commercial Aviation Safety Team (CAST) helped reduce the fatal accident rate in aviation by 80%.
+- To make the public aware of how the Commercial Aviation Safety Team (CAST) helped reduce the fatal accident rate in aviation by over 80%.
 - To describe how similar practices might be implemented in other industries.
 
 # Pillars of CAST
