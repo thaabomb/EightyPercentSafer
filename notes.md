@@ -5,6 +5,8 @@
 # Concept: Pillars of CAST
 - Learn from your mistakes
   - Legislate the legal protection of any information that is submitted voluntarily.
+- Be proactive
+  - Identify hazards before accidents occur
 - Collaborate
   - Make sure everyone who has a dog in the fight has a seat at the table.
 
@@ -13,4 +15,10 @@
 - If there's no data, you can't improve
 - The whole notion of improving safety rises and falls on data collection.
 - To improve safety you need evidence and the evidence is data.
+
+# Concept: Accident Pyramid
+- Tier 1: Accidents
+- Tier 2: Incidents
+- Tier 3: Unreported Occurences
+- Retrieve this from the GAIN presentations
 
