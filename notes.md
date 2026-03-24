@@ -24,3 +24,9 @@
 
 # Concept: A free bonus of improved safety is improved productivity
 
+# Research Area: CAST won awards from at least three different organizations. Investigate them.
+- 2008 Collier Trophy
+- 2006 Aviation Week and Space Technology
+- 2018 Aviation Week
+- "CAST, in conjunction with ASIAS, received the 2018 Aviation Week Laureate Award for Commercial Safety in recognition of its contributions in advancing commercial aviation safety. CAST received the prestigious 2008 Robert J. Collier Trophy and a 2006 Laurel Award from Aviation Week & Space Technology magazine in recognition of its contributions in reducing the fatality risk for U.S. commercial aviation by 83 percent from 1998 to 2008."
+
