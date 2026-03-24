@@ -22,3 +22,5 @@
 - Tier 3: Unreported Occurences
 - Retrieve this from the GAIN presentations
 
+# Concept: A free bonus of improved safety is improved productivity
+
