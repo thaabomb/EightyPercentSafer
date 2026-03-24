@@ -30,3 +30,7 @@
 - 2018 Aviation Week
 - "CAST, in conjunction with ASIAS, received the 2018 Aviation Week Laureate Award for Commercial Safety in recognition of its contributions in advancing commercial aviation safety. CAST received the prestigious 2008 Robert J. Collier Trophy and a 2006 Laurel Award from Aviation Week & Space Technology magazine in recognition of its contributions in reducing the fatality risk for U.S. commercial aviation by 83 percent from 1998 to 2008."
 
+# Concept: where did all the plane crashes go?
+- If you were alive during the 90's you probably got used to seeing a plane crash on the news every month.
+- Between 1998 and 2008, the plane crashes on the news went away. Where did they go?
+- CAST prevented them.
