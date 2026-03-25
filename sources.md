@@ -9,3 +9,5 @@
   - https://web.archive.org/web/20180518055011/https://laureates.aviationweek.com/en/winners/2018-winners.html
 - Wikipedia page for David R. Hinson
   - https://en.wikipedia.org/wiki/David_R._Hinson
+- Skybrary page for CAST
+  - https://skybrary.aero/articles/commercial-aviation-safety-team-cast
