@@ -7,3 +7,5 @@
   - https://web.archive.org/web/20191108191104/https://naa.aero/userfiles/files/documents/Press%20Releases/Collier%202008%20PR.pdf
 - Aviation Week Laureates 2018
   - https://web.archive.org/web/20180518055011/https://laureates.aviationweek.com/en/winners/2018-winners.html
+- Wikipedia page for David R. Hinson
+  - https://en.wikipedia.org/wiki/David_R._Hinson
