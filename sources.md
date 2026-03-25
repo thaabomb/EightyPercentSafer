@@ -15,3 +15,5 @@
   - https://www.global-aero.com/aviation-data-sharing-crucial-to-improved-safety/
 - Bloomberg article about EGPWS that mentions Ed Soliday
   - https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/
+- Abstract for conference paper about GAIN
+  - https://link.springer.com/chapter/10.1007/1-4020-8153-7_2
