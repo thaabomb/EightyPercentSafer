@@ -13,3 +13,5 @@
   - https://skybrary.aero/articles/commercial-aviation-safety-team-cast
 - Global Aerospace article about ASIAS
   - https://www.global-aero.com/aviation-data-sharing-crucial-to-improved-safety/
+- Bloomberg article about EGPWS that mentions Ed Soliday
+  - https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/
