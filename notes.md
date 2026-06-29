@@ -34,3 +34,6 @@
 - If you were alive during the 90's you probably got used to seeing a plane crash on the news every month.
 - Between 1998 and 2008, the plane crashes on the news went away. Where did they go?
 - CAST prevented them.
+
+# Concept: Proactive approach vs reactive
+- My Dad says the Brits did proactive data analysis way before anyone else. Look into who was doing that and when it got started.
