@@ -9,6 +9,10 @@
   - Identify hazards before accidents occur
 - Collaborate
   - Make sure everyone who has a dog in the fight has a seat at the table.
+- Collect Data (?)
+  - Is that worthy of being a pillar?
+- Prioritize Hazards (?)
+  - Is that worthy of being a pillar?
 
 # Concept: The Story of Safety is the Story of Data
 - If you have lots of data you can analyze it and improve safety
