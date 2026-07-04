@@ -13,6 +13,7 @@
   - Is that worthy of being a pillar?
 - Prioritize Hazards (?)
   - Is that worthy of being a pillar?
+- Assuming that these will all become pillars, the order should be: legislate, collect data, analyze data, identify hazards, prioritize hazards. I guess the last step needs to be implementing solutions. And I guess the step after that needs to be evaluating the implemented solutions for efficacy.
 
 # Concept: The Story of Safety is the Story of Data
 - If you have lots of data you can analyze it and improve safety
