@@ -9,6 +9,7 @@
   - Identify hazards before accidents occur
 - Collaborate
   - Make sure everyone who has a dog in the fight has a seat at the table.
+  - This doesn't mean pilots working with other pilots. This means manufacturers, regulators, operators, and maintainers all sitting at the same table and solving problems together.
 - Collect Data (?)
   - Is that worthy of being a pillar?
 - Prioritize Hazards (?)
