@@ -21,7 +21,7 @@
 - If there's no data, you can't improve
 - The whole notion of improving safety rises and falls on data collection.
 - To improve safety you need evidence and the evidence is data.
-
+- To collect data, you need frontline workers who are not afraid of retribution.
 # Concept: Accident Pyramid
 - Tier 1: Accidents
 - Tier 2: Incidents
