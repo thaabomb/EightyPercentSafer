@@ -11,6 +11,8 @@
   - https://en.wikipedia.org/wiki/David_R._Hinson
 - Skybrary page for CAST
   - https://skybrary.aero/articles/commercial-aviation-safety-team-cast
+- Skybrary page for CAST safety enhancements
+  - https://skybrary.aero/enhancing-safety/cast-safety-enhancements
 - Global Aerospace article about ASIAS
   - https://www.global-aero.com/aviation-data-sharing-crucial-to-improved-safety/
 - Bloomberg article about EGPWS that mentions Ed Soliday
