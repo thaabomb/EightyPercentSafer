@@ -54,3 +54,12 @@
 # Concept: Safety vs Security
 - If someone is trying to cause harm, that's a security issue, not a safety issue
 - Generally speaking, make sure to define safety and limit the scope of what you're talking about
+
+# Concept: We all knew about that problem
+- In the accident hearings of the 80's and 90's it was common to hear this phrase
+- These were not hazards that nobody knew about. These were hazards that lots of people knew about. No one who knew about them was in a position to do something about it and no one who was in a position to do something about it knew about them.
+- There was no pipeline to get the information from the frontline employees to the decision makers.
+- Does this situation exist in your industry? Are you sure?
+
+# Concept: Giants upon whose shoulders CAST was built
+- Professor James Reason and his swiss cheese model
