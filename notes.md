@@ -32,6 +32,9 @@
 - Retrieve this from the GAIN presentations
 
 # Concept: A free bonus of improved safety is improved productivity
+- Want to cut costs? Improve safety.
+- Nothing is more expensive than a plane crash.
+- Talk to your Dad about examples of how improving safety improves productivity.
 
 # Research Area: CAST won awards from at least three different organizations. Investigate them.
 - 2008 Collier Trophy
