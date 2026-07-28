@@ -36,6 +36,8 @@
 - Nothing is more expensive than a plane crash.
 - Talk to your Dad about examples of how improving safety improves productivity.
 - e.g. flap overspeeds
+- The myth is that a business "can't afford this safety crap". 
+- The truth is that a business can't afford NOT to implement collaborative safety. 
 
 # Research Area: CAST won awards from at least three different organizations. Investigate them.
 - 2008 Collier Trophy
