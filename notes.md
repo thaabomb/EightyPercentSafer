@@ -43,3 +43,7 @@
 
 # Concept: Proactive approach vs reactive
 - My Dad says the Brits did proactive data analysis way before anyone else. Look into who was doing that and when it got started.
+
+# Concept: Architects of CAST
+- Ed Soliday
+- ???
