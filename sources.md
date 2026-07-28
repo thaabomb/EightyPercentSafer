@@ -21,5 +21,5 @@
   - https://link.springer.com/chapter/10.1007/1-4020-8153-7_2
 - White House Commission on Aviation Safety and Security FINAL REPORT
   - https://irp.fas.org/threat/212fin~1.html
--  Executive Order 13015
+- Executive Order 13015
   - https://www.govinfo.gov/content/pkg/CFR-1997-title3-vol1/html/CFR-1997-title3-vol1-eo13015.htm
