@@ -1,0 +1,3 @@
+- Intro
+- Describe how CAST reduced the fatal accident rate by 80%
+- Describe how collaborative safety could make healthcare safer
