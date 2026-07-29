@@ -1,3 +1,5 @@
 - Describe the result: an 80% reduction in the fatal accident rate
 - Describe CAST and how CAST helped achieve that result
-- Describe how collaborative safety could make healthcare safer
+- Describe how collaborative safety could improve safety in other industries
+
+
