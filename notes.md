@@ -70,3 +70,9 @@
 
 # Concept: Giants upon whose shoulders CAST was built
 - Professor James Reason and his swiss cheese model
+
+# Research Tactic: use Newspapers.com to find newspaper articles about the EO, CAST, and plane crashes
+
+
+
+
