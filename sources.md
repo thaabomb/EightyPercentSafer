@@ -29,6 +29,12 @@
   - https://en.wikipedia.org/wiki/Aviation_accidents_and_incidents
 - Wkipedia page for Aviation Safety
   - https://en.wikipedia.org/wiki/Aviation_safety
+- Example of excellent aviation safety writing: Admiral Cloudberg
+  - https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f?postPublishedType=repub
+  - https://docs.google.com/document/d/1cM2FFJ7rfGCpL_WIskmDUkFHlDolMBEzBGQZIFA6kP8/mobilebasic
+  - https://admiralcloudberg.medium.com/progress-update-new-article-coming-soon-and-a-teaser-24f9093cbc40
+
+
 
 
 
