@@ -67,6 +67,7 @@
 - These were not hazards that nobody knew about. These were hazards that lots of people knew about. No one who knew about them was in a position to do something about it and no one who was in a position to do something about it knew about them.
 - There was no pipeline to get the information from the frontline employees to the decision makers.
 - Does this situation exist in your industry? Are you sure?
+- Ask your Dad for examples, and how to find more information about these accident hearings.
 
 # Concept: Giants upon whose shoulders CAST was built
 - Professor James Reason and his swiss cheese model
