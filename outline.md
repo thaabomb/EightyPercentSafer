@@ -8,6 +8,7 @@
   - Describe the result: an 83% reduction in the fatal accident rate in the 10 years between 1998 and 2007.
   - Segue to Act II: how did an industry that was already considered "very safe" improve by 80%?
 - Describe CAST and how CAST helped achieve that result
+  - What is CAST?
 - Describe how collaborative safety could improve safety in other industries
 
 
