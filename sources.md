@@ -33,7 +33,9 @@
   - https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f?postPublishedType=repub
   - https://docs.google.com/document/d/1cM2FFJ7rfGCpL_WIskmDUkFHlDolMBEzBGQZIFA6kP8/mobilebasic
   - https://admiralcloudberg.medium.com/progress-update-new-article-coming-soon-and-a-teaser-24f9093cbc40
-
+- Wikipedia pages for Professor James Reason and The Swiss Cheese Model
+  - https://en.wikipedia.org/wiki/James_Reason
+  - https://en.wikipedia.org/wiki/Swiss_cheese_model
 
 
 
