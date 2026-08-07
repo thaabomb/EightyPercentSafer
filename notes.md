@@ -82,7 +82,7 @@
 # Concept: Changing the culture was a big factor in improving safety
 - The old culture was: the captain is god, never question her decisions
 - The new culture is: we're all in this together, and any safety related input is valid
-- I don't think CAST had much to do with changing the culture. So this is one area where the improvement in aviation safety goes beyond just CAST.
+- I don't think CAST had much to do with changing the culture. So this is one of a few areas where the improvement in aviation safety goes beyond just CAST.
 
 
 
