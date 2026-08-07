@@ -74,6 +74,9 @@
 
 # Research Tactic: use Newspapers.com to find newspaper articles about the EO, CAST, and plane crashes
 
+# Concept: More than just CAST.
+- Part of the story is the legislation that protected individuals who voluntary came forward to report their own mistakes.
+- I believe this was done outside of CAST but it was critical to the safety story and to the 83% reduction in the fatal accident rate.
 
 
 
