@@ -79,4 +79,6 @@
 - I believe this was done outside of CAST but it was critical to the safety story and to the 83% reduction in the fatal accident rate.
 - An abstraction: don't prescribe specifically CAST for other industries; rather, prescribe "proactive, data-driven, collaborative safety"
 
-
+# Concept: Changing the culture was a big factor in improving safety
+- The old culture was: the captain is god, never question her decisions
+- The new culture is: we're all in this together, and any safety related input is valid
