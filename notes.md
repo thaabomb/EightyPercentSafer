@@ -84,8 +84,19 @@
 - The new culture is: we're all in this together, and any safety related input is valid
 - I don't think CAST had much to do with changing the culture. So this is one of a few areas where the improvement in aviation safety goes beyond just CAST.
 
-# Concept: The challenges of collaboration
+# Concept: The challenge of fostering collaboration
 - In order to foster collaboration, you must overcome "your end of the ship is sinking"
+
+# Task: Interview Ed Soliday
+- Turns out Ed Soliday is still alive (I thought he had passed away).
+- Let's interview him before it's too late!
+
+# Note: My Dad spearheaded the legislation that protected voluntary safety information from FOIA.
+- Ask him lots of questions about it!
+- What was the legislation called?
+
+
+
 
 
 
