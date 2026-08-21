@@ -36,7 +36,8 @@
 - Wikipedia pages for Professor James Reason and The Swiss Cheese Model
   - https://en.wikipedia.org/wiki/James_Reason
   - https://en.wikipedia.org/wiki/Swiss_cheese_model
-
+- Article about Professor James Reason
+  - https://www.flightsafetyaustralia.com/2025/09/this-man-may-have-saved-your-life/
 
 
 
