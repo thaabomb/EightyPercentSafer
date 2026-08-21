@@ -39,6 +39,7 @@
 - Articles about Professor James Reason
   - https://www.flightsafetyaustralia.com/2025/09/this-man-may-have-saved-your-life/
   - https://www.flightsafetyaustralia.com/2025/02/the-absent-minded-professor-who-made-a-safer-world/
-
+- Wikipedia article for Robert Wachter
+  - https://en.wikipedia.org/wiki/Robert_M._Wachter
 
 
