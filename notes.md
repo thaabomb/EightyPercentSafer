@@ -81,9 +81,17 @@
 - An abstraction: don't prescribe specifically CAST for other industries; rather, prescribe "proactive, data-driven, collaborative safety"
   - This is the whole book. The brand of safety we're selling is:
     - Non-punitive
+      - Punishment is an effective deterrent against people who are trying to cause harm.
+      - Punishment is ineffective as a means of preventing people who are trying to do the right thing from making mistakes.
+      - The difference is intent.
+      - Pilots are the ultimate example. No one has more at stake than pilots. Yet they still make mistakes. How can that be?
     - Proactive
+      - Is this specifically "proactive analysis"?
     - Collaborative
+      - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
+      - Is this specifically "collaborative implementation"?
     - Data-driven
+
 # Concept: Changing the culture was a big factor in improving safety
 - The old culture was: the captain is god, never question her decisions
 - The new culture is: we're all in this together, and any safety related input is valid
