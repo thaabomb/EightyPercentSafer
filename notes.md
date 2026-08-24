@@ -95,7 +95,9 @@
 - Ask him lots of questions about it!
 - What was the legislation called?
 
-
+# Concept: What this book is not
+- This is not a book about aviation safety in general. It's about the specific changes that reduced the fatal accident rate by 83% in ten years.
+- This is not a book about patient safety.
 
 
 
