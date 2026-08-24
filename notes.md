@@ -60,6 +60,7 @@
 # Concept: Safety vs Security
 - If someone is trying to cause harm, that's a security issue, not a safety issue
 - Generally speaking, make sure to define safety and limit the scope of what you're talking about
+  - Also be sure to limit the scope to commercial aviation, among US carriers.
 - We're talking about accidents here, not intentional acts.
 
 # Concept: We all knew about that problem
