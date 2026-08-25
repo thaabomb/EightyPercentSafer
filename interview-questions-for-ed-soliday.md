@@ -5,4 +5,4 @@
 - Do you think the CAST-model could be applied in other industries?
 - What was the biggest challenge in establishing CAST?
 - What made CAST so effective?
-
+- Do you have any examples of how improving safety improved productivity?
