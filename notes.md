@@ -99,7 +99,8 @@
 - The old culture was: the captain is god, never question her decisions
 - The new culture is: we're all in this together, and any safety related input is valid
 - I don't think CAST had much to do with changing the culture. So this is one of a few areas where the improvement in aviation safety goes beyond just CAST.
-
+- Where does changing the culture fit into the Non-punitive, Data-driven, Proactive, Collaborative framework?
+  - Maybe it falls under collaboration? But that seems like a bit of a stretch. E.G. pilots must collaborate with co-pilots rather than lording over them? Really reaching.
 # Concept: The challenge of fostering collaboration
 - In order to foster collaboration, you must overcome "your end of the ship is sinking"
 
