@@ -62,6 +62,7 @@
 - Generally speaking, make sure to define safety and limit the scope of what you're talking about
   - Also be sure to limit the scope to commercial aviation, among US carriers.
 - We're talking about accidents here, not intentional acts.
+- We're not talking about slips trips and falls.
 
 # Concept: We all knew about that problem
 - In the accident hearings of the 80's and 90's it was common to hear this phrase
@@ -114,6 +115,7 @@
 - This is not a book about aviation safety in general. It's about the specific changes that reduced the fatal accident rate by 83% in ten years.
 - This is not a book about patient safety.
 - This is not a book about security.
+- This is not a book about slips trips and falls.
 
 # We need a name for the specific brand of safety we're selling
 - SuperSafety
@@ -122,4 +124,15 @@
 - No Dat Pro Coll
 - DaProCoNo
 - Enlightened Safety
+- Safer Sephiroth
+- Safety Engineering
+
+
+
+
+
+
+
+
+
 
