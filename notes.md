@@ -69,6 +69,8 @@
 - There was no pipeline to get the information from the frontline employees to the decision makers.
 - Does this situation exist in your industry? Are you sure?
 - Ask your Dad for examples, and how to find more information about these accident hearings.
+- This ties in with the accident pyramid.
+  - The unreported occurences were widely known, but not by people who had the power to do anything about it.
 
 # Concept: Giants upon whose shoulders CAST was built
 - Professor James Reason and his swiss cheese model
