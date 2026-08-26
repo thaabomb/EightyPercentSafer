@@ -124,8 +124,12 @@
 - No Dat Pro Coll
 - DaProCoNo
 - Enlightened Safety
-- Safer Sephiroth
+- SAFER* Sephiroth
 - Safety Engineering
+- Elevated Safety
+- Enhanced Safety
+- HYPERSAFE
+
 
 
 
