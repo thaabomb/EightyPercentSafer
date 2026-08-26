@@ -113,7 +113,13 @@
 # Concept: What this book is not
 - This is not a book about aviation safety in general. It's about the specific changes that reduced the fatal accident rate by 83% in ten years.
 - This is not a book about patient safety.
+- This is not a book about security.
 
-
-
+# We need a name for the specific brand of safety we're selling
+- SuperSafety
+- System Safety
+- NDPC Safety
+- No Dat Pro Coll
+- DaProCoNo
+- Enlightened Safety
 
