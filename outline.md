@@ -10,9 +10,13 @@
 - Describe EnlightenedSafety and how EnlightenedSafety helped achieve that result
   - What is EnlightenedSafety?
     - Non-punitive
+      - The Legislation
     - Data-driven
+      - GAIN
     - Proactive
+      - GAIN
     - Collaborative
+      - CAST
   - How is EnlightenedSafety different than what came before?
   - Why is EnlightenedSafety so effective?
 - Describe how EnlightenedSafety could improve safety in other industries
