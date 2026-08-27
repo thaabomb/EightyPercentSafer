@@ -18,7 +18,12 @@
     - Collaborative
       - CAST
   - How is EnlightenedSafety different than what came before?
+    - It's almost the exact opposite
+      - Punitive
+      - Reactive
+      - Defensive
   - Why is EnlightenedSafety so effective?
+    - It leverages all those incidents and unreported occurences to prevent accidents.
 - Describe how EnlightenedSafety could improve safety in other industries
   - Nothing about EnlightenedSafety is specific to aviation
 
