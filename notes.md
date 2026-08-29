@@ -146,6 +146,10 @@
 - 360Safety
 - SAFEOPS
 - OPSMON
+- SAFETYONE
+- 1SAFETY
+- SEFTY
+- TOOSAFE
 
 # Safety is not a _______ its a lifestyle
 - In order for safety to work, you have to live and breathe safety everyday.
