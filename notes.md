@@ -31,6 +31,11 @@
 - Tier 3: Unreported Occurences
 - Retrieve this from the GAIN presentations
 - The incidents and unrelorted occurences are fuel for accident prevention.
+  - Maybe they're the crude oil of accident prevention.
+  - Proactive data collection, analysis, and prioritization is the refinement process.
+  - The output of that process is the fuel for accident prevention.
+  - Unlike crude oil, incidents and unreported occurences defy extraction. People actively try to hide these things unless you guarantee a non-punitive response. If you guarantee a non-punitive response they'll actually deliver the crude oil to you.
+    - You must also guarantee that this information will not become public.
 
 # Concept: A free bonus of improved safety is improved productivity
 - Want to cut costs? Improve safety.
@@ -89,6 +94,8 @@
       - Punishment is ineffective as a means of preventing people who are trying to do the right thing from making mistakes.
       - The difference is intent.
       - Pilots are the ultimate example. No one has more at stake than pilots. Yet they still make mistakes. How can that be?
+    - Non-public
+      - Participants want guarantees that info about their mistakes will not be made public.
     - Proactive
       - Is this specifically "proactive analysis"?
     - Collaborative
@@ -102,6 +109,7 @@
 - I don't think CAST had much to do with changing the culture. So this is one of a few areas where the improvement in aviation safety goes beyond just CAST.
 - Where does changing the culture fit into the Non-punitive, Data-driven, Proactive, Collaborative framework?
   - Maybe it falls under collaboration? But that seems like a bit of a stretch. E.G. pilots must collaborate with co-pilots rather than lording over them? Really reaching.
+
 # Concept: The challenge of fostering collaboration
 - In order to foster collaboration, you must overcome "your end of the ship is sinking"
 
@@ -137,6 +145,12 @@
 - Safety requires constant vigilance.
 - How does this fit in with Safety Engineering?
 
+# Fear is why you fail
+- The medical industry is resisting the adoption of this change out of fear.
+- Fear of negative repercussions from people (bosses, the public) finding out that they mistakes or fear that their proprietary information may leak.
+- Fear is very effective if you're hiding from a tiger, but in the modern world fear can often hold you back.
+- Fear is a survival instinct that can help you survive but it is unlikely to help you thrive.
+- As Brenee Brown tells us, the path forward is vulnerability. Make yourself vulnerable to scrutiny for your mistakes and the whole industry will become safer.
 
 
 
