@@ -131,6 +131,10 @@
 - Enhanced Safety
 - HYPERSAFE
 
+# Safety is not a _______ its a lifestyle
+- In order for safety to work, you have to live and breathe safety everyday.
+- Safety requires constant vigilance.
+- How does this fit in with Safety Engineering?
 
 
 
