@@ -103,6 +103,7 @@
       - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
       - Is this specifically "collaborative implementation"?
     - Data-driven
+- Another big part of the fatality reduction was a change in the cockpit culture. I'm not sure this was caused by CAST either.
 
 # Concept: Changing the culture was a big factor in improving safety
 - The old culture was: the captain is god, never question her decisions
@@ -140,6 +141,11 @@
 - Elevated Safety
 - Enhanced Safety
 - HYPERSAFE
+- Total Safety
+- Safety360
+- 360Safety
+- SAFEOPS
+- OPSMON
 
 # Safety is not a _______ its a lifestyle
 - In order for safety to work, you have to live and breathe safety everyday.
