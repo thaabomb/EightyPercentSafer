@@ -6,4 +6,4 @@
 - What was the biggest challenge in establishing CAST?
 - What made CAST so effective?
 - Do you have any examples of how improving safety improved productivity?
-- How did you know what woul work? How did you know what to do?
+- How did you know what would work? How did you know what to do?
