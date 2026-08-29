@@ -30,6 +30,7 @@
 - Tier 2: Incidents
 - Tier 3: Unreported Occurences
 - Retrieve this from the GAIN presentations
+- The incidents and unrelorted occurences are fuel for accident prevention.
 
 # Concept: A free bonus of improved safety is improved productivity
 - Want to cut costs? Improve safety.
