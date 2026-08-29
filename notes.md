@@ -44,6 +44,7 @@
 - e.g. flap overspeeds
 - The myth is that a business "can't afford this safety crap". 
 - The truth is that a business can't afford NOT to implement collaborative safety. 
+- Operations monitoring
 
 # Research Area: CAST won awards from at least three different organizations. Investigate them.
 - 2008 Collier Trophy
