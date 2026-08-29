@@ -7,7 +7,7 @@
   - Describe the Executive Order
   - Describe the result: an 83% reduction in the fatal accident rate in the 10 years between 1998 and 2007.
   - Segue to Act II: how did an industry that was already considered "very safe" improve by 80%?
-- ~Describe EnlightenedSafety and how EnlightenedSafety helped achieve that result~
+- Describe EnlightenedSafety and how EnlightenedSafety helped achieve that result
   - What is EnlightenedSafety?
     - Non-punitive
       - The Legislation
