@@ -158,6 +158,7 @@
 - Fear is very effective if you're hiding from a tiger, but in the modern world fear can often hold you back.
 - Fear is a survival instinct that can help you survive but it is unlikely to help you thrive.
 - As Brenee Brown tells us, the path forward is vulnerability. Make yourself vulnerable to scrutiny for your mistakes and the whole industry will become safer.
+- If fear is your main motivation, you are unlikely to thrive.
 
 
 
