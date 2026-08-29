@@ -1,4 +1,4 @@
-- Describe the result: an 80% reduction in the fatal accident rate
+- Describe the result: an 83% reduction in the fatal accident rate in 10 years
   - Where did all the plane crashes go?
   - Describe the status quo circa 1996
     - An accident rate which had been declining for a long time but had recently become stuck on a plateau
@@ -7,7 +7,7 @@
   - Describe the Executive Order
   - Describe the result: an 83% reduction in the fatal accident rate in the 10 years between 1998 and 2007.
   - Segue to Act II: how did an industry that was already considered "very safe" improve by 80%?
-- Describe EnlightenedSafety and how EnlightenedSafety helped achieve that result
+- ~Describe EnlightenedSafety and how EnlightenedSafety helped achieve that result~
   - What is EnlightenedSafety?
     - Non-punitive
       - The Legislation
