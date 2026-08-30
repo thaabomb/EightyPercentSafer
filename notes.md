@@ -180,7 +180,11 @@
 - Is there a collaborative entity where every corner of the industry has a seat at the table?
 - Is there a culture of safety where all opinions are valued?
 
-
+# Fault minimizement and fault tolerance
+- Design the system so as to minimize the occurence of errors.
+  - Make it hard to make mistakes
+- Design the system so as to make it robust against the occurence of errors.
+  - A single mistake should not produce a catastrophic result.
 
 
 
