@@ -10,6 +10,8 @@
 - Describe EnlightenedSafety and how EnlightenedSafety helped achieve that result
   - What is EnlightenedSafety?
     - Non-punitive
+      - ~The Legislation~
+    - Non-public
       - The Legislation
     - Data-driven
       - GAIN
