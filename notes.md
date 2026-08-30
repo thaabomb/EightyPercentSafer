@@ -157,6 +157,8 @@
 - In order for safety to work, you have to live and breathe safety everyday.
 - Safety requires constant vigilance.
 - How does this fit in with Safety Engineering?
+- Not a destination?
+- Not a milestone?
 
 # Fear is why you fail
 - The medical industry is resisting the adoption of this change out of fear.
@@ -165,6 +167,16 @@
 - Fear is a survival instinct that can help you survive but it is unlikely to help you thrive.
 - As Brenee Brown tells us, the path forward is vulnerability. Make yourself vulnerable to scrutiny for your mistakes and the whole industry will become safer.
 - If fear is your main motivation, you are unlikely to thrive.
+
+# A SAFETY+ test
+- In your industry...
+- Is the privacy of voluntary safety reports guaranteed?
+- Do people get punished for voluntarily reporting safety information?
+- Is there a central database of safety reports?
+- Is there an entity devoted to analyzing safety reports?
+- Is there a collaborative entity where every corner of the industry has a seat at the table?
+- Is there a culture of safety where all opinions are valued?
+
 
 
 
