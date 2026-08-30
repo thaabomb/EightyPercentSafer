@@ -1,1 +1,1 @@
-If you lived through the 90's you probably remember seeing a handful of plane crashes in the news every year. But around 2010, plane crashes stopped appearing in the news. Where did all the plane crashes go?
+If you lived through the 90's you probably remember seeing a handful of plane crashes in the news every year. But around the year 2010, plane crashes stopped appearing in the news. Where did all the plane crashes go?
