@@ -98,7 +98,7 @@
     - Non-public
       - Participants want guarantees that info about their mistakes will not be made public.
     - Proactive
-      - Is this specifically "proactive analysis"?
+      - Must collect and analyze data even before accidents occur.
     - Collaborative
       - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
       - Is this specifically "collaborative implementation"?
