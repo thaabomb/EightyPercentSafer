@@ -70,7 +70,7 @@
   - Also be sure to limit the scope to commercial aviation, among US carriers.
 - We're talking about accidents here, not intentional acts.
 - We're not talking about slips trips and falls.
-
+- Be specific about defining the metric that decline by 83%. I believe its the fatal accident rate but I need to investigate that further. 
 # Concept: We all knew about that problem
 - In the accident hearings of the 80's and 90's it was common to hear this phrase
 - These were not hazards that nobody knew about. These were hazards that lots of people knew about. No one who knew about them was in a position to do something about it and no one who was in a position to do something about it knew about them.
