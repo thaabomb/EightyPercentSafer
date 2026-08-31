@@ -188,6 +188,14 @@
 - Design the system so as to make it robust against the occurence of errors.
   - A single mistake should not produce a catastrophic result.
 
+# How my knowledge of the subject has changed since I started this project
+- I used to think that CAST was solely responsible for every iota of the 83% reduction in fatalities.
+- Circa 8/31/2026 I now think that CAST was a big part of it but there were other major contributors as well.
+  - The Legislation that protected voluntary safety reports from FOIA
+  - A change in the culture from "the pilot is god" to CRM
+  - I'm now trying to come up with a name for the total package.
+
+
 
 
 
