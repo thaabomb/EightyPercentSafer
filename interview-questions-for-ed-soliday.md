@@ -7,3 +7,7 @@
 - What made CAST so effective?
 - Do you have any examples of how improving safety improved productivity?
 - How did you know what would work? How did you know what to do?
+- In your opinion, what activities/entities outside of CAST had significant contributions to aviation safety at around the same time?
+
+
+
