@@ -65,6 +65,8 @@
   - https://skybrary.aero/articles/aviation-safety-data-mining-workbench
 - CRM
   - https://skybrary.aero/articles/crew-resource-management-crm
+- Lessons Learned Library and Accident Statistics
+  - https://www.faa.gov/lessons_learned/transport_airplane
 
 
 
