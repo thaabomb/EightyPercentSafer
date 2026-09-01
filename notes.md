@@ -45,6 +45,7 @@
 - The myth is that a business "can't afford this safety crap". 
 - The truth is that a business can't afford NOT to implement collaborative safety. 
 - Operations monitoring
+- Safex improves productivity because even though it is aimed at safety it is effectively a quality improvement program.
 
 # Research Area: CAST won awards from at least three different organizations. Investigate them.
 - 2008 Collier Trophy
@@ -218,6 +219,12 @@
 - This is a discover I made as a result of attempting to write this book.
 - A safety issue is just a quality issue that has become so sever that it is capable of causing harm.
 
+# Book structure: in Act III, describe each of the generalized concepts by contrasting it with its opposite
+- Punitive vs non-punitive
+- Public vs confidential (maybe?)
+- Proactive vs reactive
+- Data-driven vs opinion-driven
+- Collaborative vs defensive
 
 
 
