@@ -60,6 +60,8 @@
 - Flight Data Monitoring
   - https://skybrary.aero/articles/flight-data-monitoring-fdm
   - https://skybrary.aero/sites/default/files/bookshelf/916.pdf
+- Guide to Methods and Tools for Safety Analysis in Air Traffic Management
+  - https://skybrary.aero/sites/default/files/bookshelf/238.pdf
 
 
 
