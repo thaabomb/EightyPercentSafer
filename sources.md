@@ -47,4 +47,7 @@
   - https://www.intlaviationstandards.org/apex/f?p=240:1
 - FAA ASIAS
   - https://asip.faa.gov/about
-  - 
+  - https://www.faa.gov/about/plansreports/aviation-safety-information-analysis-and-sharing-asias
+  - https://skybrary.aero/articles/aviation-safety-information-analysis-and-sharing-asias
+
+
