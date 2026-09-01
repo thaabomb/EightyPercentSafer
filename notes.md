@@ -95,6 +95,7 @@
       - Punishment is ineffective as a means of preventing people who are trying to do the right thing from making mistakes.
       - The difference is intent.
       - Pilots are the ultimate example. No one has more at stake than pilots. Yet they still make mistakes. How can that be?
+      - I'm not sure the non-punitive approach can be attributed to CAST.
     - Confidential
       - Participants want guarantees that info about their mistakes will not be made public.
     - Data-driven
