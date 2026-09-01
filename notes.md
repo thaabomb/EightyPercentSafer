@@ -97,12 +97,13 @@
       - Pilots are the ultimate example. No one has more at stake than pilots. Yet they still make mistakes. How can that be?
     - Non-public
       - Participants want guarantees that info about their mistakes will not be made public.
+    - Data-driven
+      - Decisions about which safety enhancements to implement are fueled by data about errors that are occuring in real world operations. AKA data about incidents and unreported occurences.
     - Proactive
       - Must collect and analyze data even before accidents occur.
     - Collaborative
       - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
       - Is this specifically "collaborative implementation"?
-    - Data-driven
 - Another big part of the fatality reduction was a change in the cockpit culture. I'm not sure this was caused by CAST either.
 
 # Concept: Changing the culture was a big factor in improving safety
