@@ -57,5 +57,8 @@
   - https://skybrary.aero/articles/hazard-identification
 - Safety Occurence Reporting
   - https://skybrary.aero/articles/safety-occurrence-reporting
+- Flight Data Monitoring
+  - https://skybrary.aero/articles/flight-data-monitoring-fdm
+
 
 
