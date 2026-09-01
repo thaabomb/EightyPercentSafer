@@ -53,5 +53,7 @@
   - https://skybrary.aero/articles/safety-information-exchange
 - Voluntary Occurrence Reporting
   - https://skybrary.aero/articles/voluntary-occurrence-reporting
+- Hazard Identification
+  - https://skybrary.aero/articles/hazard-identification
 
 
