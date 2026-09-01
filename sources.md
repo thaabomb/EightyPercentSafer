@@ -49,5 +49,7 @@
   - https://asip.faa.gov/about
   - https://www.faa.gov/about/plansreports/aviation-safety-information-analysis-and-sharing-asias
   - https://skybrary.aero/articles/aviation-safety-information-analysis-and-sharing-asias
+- Safety Information Exchange
+  - https://skybrary.aero/articles/safety-information-exchange
 
 
