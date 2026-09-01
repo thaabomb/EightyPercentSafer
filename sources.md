@@ -63,6 +63,8 @@
 - Guide to Methods and Tools for Safety Analysis in Air Traffic Management
   - https://skybrary.aero/sites/default/files/bookshelf/238.pdf
   - https://skybrary.aero/articles/aviation-safety-data-mining-workbench
+- CRM
+  - https://skybrary.aero/articles/crew-resource-management-crm
 
 
 
