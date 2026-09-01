@@ -211,6 +211,12 @@
 
 # Concept: good, honest, highly-trained, hard-working people who are trying to do the right thing
 
+# Concept: Safety IS quality. Quality IS safety.
+- All safety issues are quality issues, but not all quality issues are safety issues.
+- The Safex Program is notionally a safety program, but you could just as easily call it a quality program.
+- This is why The Safex Program improved quality as a "side effect" when implemented in Aviation. Because it is a quality program.
+
+
 
 
 
