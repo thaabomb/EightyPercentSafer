@@ -95,7 +95,7 @@
       - Punishment is ineffective as a means of preventing people who are trying to do the right thing from making mistakes.
       - The difference is intent.
       - Pilots are the ultimate example. No one has more at stake than pilots. Yet they still make mistakes. How can that be?
-    - Non-public
+    - Confidential
       - Participants want guarantees that info about their mistakes will not be made public.
     - Data-driven
       - Decisions about which safety enhancements to implement are fueled by data about errors that are occuring in real world operations. AKA data about incidents and unreported occurences.
@@ -208,7 +208,7 @@
   - A change in the culture from "the pilot is god" to CRM
   - I'm now trying to come up with a name for the total package.
 
-
+# Concept: good, honest, highly-trained, hard-working people who are trying to do the right thing
 
 
 
