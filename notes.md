@@ -101,6 +101,7 @@
       - Decisions about which safety enhancements to implement are fueled by data about errors that are occuring in real world operations. AKA data about incidents and unreported occurences.
     - Proactive
       - Must collect and analyze data even before accidents occur.
+      - By definition, you can't prevent accidents if you don't take action until after an accident has occurred.
     - Collaborative
       - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
       - Is this specifically "collaborative implementation"?
