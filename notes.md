@@ -215,6 +215,7 @@
 - All safety issues are quality issues, but not all quality issues are safety issues.
 - The Safex Program is notionally a safety program, but you could just as easily call it a quality program.
 - This is why The Safex Program improved quality as a "side effect" when implemented in Aviation. Because it is a quality program.
+- This is a discover I made as a result of attempting to write this book.
 
 
 
