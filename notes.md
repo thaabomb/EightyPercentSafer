@@ -121,6 +121,7 @@
 
 # Concept: The challenge of fostering collaboration
 - In order to foster collaboration, you must overcome "your end of the ship is sinking"
+- Entities must be able to admit that there's a problem.
 
 # Task: Interview Ed Soliday
 - Turns out Ed Soliday is still alive (I thought he had passed away).
