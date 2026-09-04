@@ -1,3 +1,5 @@
+https://chatgpt.com/share/6a9ace70-67d8-83ea-811d-9d4016dc5f43
+
 Yes — you were remembering it correctly, with one important distinction: the 80% goal was established by the Commission created by Clinton’s executive order, rather than being stated directly in the executive order itself.
 
 The executive order
