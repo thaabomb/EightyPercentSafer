@@ -67,11 +67,13 @@
 
 # Concept: Safety vs Security
 - If someone is trying to cause harm, that's a security issue, not a safety issue
+  - The difference is intent.
 - Generally speaking, make sure to define safety and limit the scope of what you're talking about
   - Also be sure to limit the scope to commercial aviation, among US carriers.
 - We're talking about accidents here, not intentional acts.
 - We're not talking about slips trips and falls.
 - Be specific about defining the metric that decline by 83%. I believe its the fatal accident rate but I need to investigate that further. 
+
 # Concept: We all knew about that problem
 - In the accident hearings of the 80's and 90's it was common to hear this phrase
 - These were not hazards that nobody knew about. These were hazards that lots of people knew about. No one who knew about them was in a position to do something about it and no one who was in a position to do something about it knew about them.
@@ -108,6 +110,7 @@
       - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
       - Is this specifically "collaborative implementation"?
 - Another big part of the fatality reduction was a change in the cockpit culture. I'm not sure this was caused by CAST either.
+- I'm not sure that the "non-punitive" pillar can be attributed to CAST.
 
 # Concept: Changing the culture was a big factor in improving safety
 - The old culture was: the captain is god, never question her decisions
@@ -209,6 +212,7 @@
 - Circa 8/31/2026 I now think that CAST was a big part of it but there were other major contributors as well.
   - The Legislation that protected voluntary safety reports from FOIA
   - A change in the culture from "the pilot is god" to CRM
+  - A non-punitive response to mistakes. I believe this is upstream of the work that CAST does and I don't believe it's attributable to CAST.
   - I'm now trying to come up with a name for the total package.
 
 # Concept: good, honest, highly-trained, hard-working people who are trying to do the right thing
