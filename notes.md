@@ -202,6 +202,7 @@
   - Make it hard to make mistakes
 - Design the system so as to make it robust against the occurence of errors.
   - A single mistake should not produce a catastrophic result.
+- Where does this fit in with SafeX?
 
 # How my knowledge of the subject has changed since I started this project
 - I used to think that CAST was solely responsible for every iota of the 83% reduction in fatalities.
