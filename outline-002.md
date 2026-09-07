@@ -1,6 +1,9 @@
 - Describe the result
   - Introduce the metric
-  - 
+  - Describe the time history of the metric
+  - Describe the improvement in the metric
+  - Describe the political influences that kicked off the improvement effort
+  - Segue to Act II: how did they do it?
 - Describe the changes made by the aviation industry that enabled that result
 - Describe how nothing that was done is specific to aviation. Generalize the concepts and explain how they could be applied in any industry.
 
