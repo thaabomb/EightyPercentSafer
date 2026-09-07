@@ -4,5 +4,5 @@ Beginning in the 1970's, the fatal accident rate in commercial aviation began to
 
 In order to meet this goal, two enterprising experts joined forces. They were FAA administrator David Hinson and United Airlines CEO Edmond Soliday. They created CAST, the Commercial Aviation Safety Team, a collaboratibe voluntary committee comprised of representatives from every corner of the aviation industry. And they did it! Together, they reduced the fatal accident rate in aviation by 83% in 10 years. But how?
 
-
+The year is 2026. Commercial aviation in the US has just experienced an unprecedented era of safety and is arguably as safe as it has ever been. 30 years ago in 1996 the fatal accident rate had stopped declining and two major accidents appeared in the news in the same year. What transpired in that 30 year period to get us from there to here? Is a similar transformation possible in any industry, or is this level of improvement specific to aviation? This book hopes to explore these questions and more.
 
