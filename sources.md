@@ -68,6 +68,7 @@
   - https://skybrary.aero/sites/default/files/bookshelf/2503.pdf
 - Lessons Learned Library and Accident Statistics
   - https://www.faa.gov/lessons_learned/transport_airplane
-
+- FAA Air Transportation Information Exchange
+  - https://www.faa.gov/speeches/air-transportation-information-exchange
 
 
