@@ -6,5 +6,9 @@
   - Segue to Act II: how did they do it?
 - Describe the changes made by the aviation industry that enabled that result
 - Describe how nothing that was done is specific to aviation. Generalize the concepts and explain how they could be applied in any industry.
-
+  - Non-punitive
+  - Confidential
+  - Data-driven
+  - Proactive
+  - Collaborative
 
