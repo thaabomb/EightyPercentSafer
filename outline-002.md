@@ -11,4 +11,4 @@
   - Data-driven
   - Proactive
   - Collaborative
-
+  - Safety is quality. Quality is safety.
