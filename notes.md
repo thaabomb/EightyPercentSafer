@@ -209,9 +209,12 @@
   - Make it hard to make mistakes
 - Design the system so as to make it robust against the occurence of errors.
   - A single mistake should not produce a catastrophic result.
+  - If you know exactly what errors are occurring it makes it easier to identify areas for improvement.
 - Where does this fit in with SafeX?
+  - This would likely be an output of the collaborative safety team.
 - Maximize the odds that the task gets done right the first time every time.
 - Don't just make the people better, make the infrastructure better too.
+- Proactive approach helps prevent accidents before they happen
 
 # How my knowledge of the subject has changed since I started this project
 - I used to think that CAST was solely responsible for every iota of the 83% reduction in fatalities.
