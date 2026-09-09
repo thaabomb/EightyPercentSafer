@@ -10,5 +10,5 @@
 - How did you know what would work? How did you know what to do?
 - In your opinion, were there any activities/entities outside of CAST that made a significant contribution to the 83% reduction in the fatal accident rate at around the same time?
 - How did you meet David Hinson?
-
+- How long were you involved with CAST?
 
