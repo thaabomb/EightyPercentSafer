@@ -70,5 +70,9 @@
   - https://www.faa.gov/lessons_learned/transport_airplane
 - FAA Air Transportation Information Exchange
   - https://www.faa.gov/speeches/air-transportation-information-exchange
+- Aviation was considered "very" safe in 1996
+  - https://clintonwhitehouse6.archives.gov/1996/08/1996-08-05-president-remarks-at-george-washington-university.html
+
+
 
 
