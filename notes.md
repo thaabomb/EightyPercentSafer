@@ -36,6 +36,8 @@
   - The output of that process is the fuel for accident prevention.
   - Unlike crude oil, incidents and unreported occurences defy extraction. People actively try to hide these things unless you guarantee a non-punitive response. If you guarantee a non-punitive response they'll actually deliver the crude oil to you.
     - You must also guarantee that this information will not become public.
+- Where does this fit in to our program?
+  - The Accident Pyramid spans the "Non-punitive", "Confidential", and "Data-driven" headings. If you protect the individuals who submit safety reports you will gain access to data about incidents and previously unreported occurences. If you gain access to that data you can analyze it to improve safety.
 
 # Concept: A free bonus of improved safety is improved productivity
 - Want to cut costs? Improve safety.
