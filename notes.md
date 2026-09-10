@@ -182,11 +182,18 @@
 - Safe-fari
 - BOQA
 - SafeOps
+- SAFER
+- SAFEROPS
+- SaferOps
+- OPSAFE
+- Continued Operational Safety
+- Vigilant System Safety
 
 # Safety is not a _______ its a lifestyle
 - In order for safety to work, you have to live and breathe safety everyday.
 - Safety requires constant vigilance.
 - How does this fit in with Safety Engineering?
+  - I believe this falls under the "proactive" heading. Monitoring data even when no accident has occurred is exactly the type of constant vigilance that's required for continued operational safety.
 - Not a destination?
 - Not a milestone?
 
