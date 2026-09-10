@@ -46,6 +46,5 @@
 - SAFER
 - SAFEROPS
 - SaferOps
-- OPSAFE
 - Continued Operational Safety
 - Vigilant System Safety
