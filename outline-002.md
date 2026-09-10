@@ -1,5 +1,5 @@
 - Describe the result
-  - Introduce the metric
+  - ~Introduce the metric~
   - Describe the time history of the metric
   - Describe the improvement in the metric
   - Describe the political influences that kicked off the improvement effort
