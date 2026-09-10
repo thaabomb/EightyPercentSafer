@@ -2,6 +2,6 @@ The individual Safety Enhancements were specific to the Aviation Industry but th
 
 First and foremost the aviation industry protected frontline operators who were willing to come forward with voluntary safety information. These individuals were protected from punishment and from public scrutiny. These protections are foundational to the entire safety methodology. Safety Enhancements are based on data from real world operations and one of the sources of data is voluntary reports. Without this crucial source of data, the methodology can't even get off the ground.
 
-
+The confidentiality of these voluntary safety reports was enshrined in law.
 
 
