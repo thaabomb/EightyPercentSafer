@@ -161,6 +161,7 @@
 - Is there an entity devoted to analyzing safety reports?
 - Is there a collaborative entity where every corner of the industry has a seat at the table?
 - Is there a culture of safety where all opinions are valued?
+- Can you name the #1 safety risk in your industry?
 
 # Fault minimizement and fault tolerance
 - Design the system so as to minimize the occurence of errors.
