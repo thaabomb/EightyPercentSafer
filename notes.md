@@ -247,6 +247,9 @@
 - In Act III, be sure to discuss the challenges that other industries may face that don't exist in aviation.
   - Flight crews have skin in the game but operators in other industries may not
 
+# Concept: The Metric
+- Write a chapter on the intricacies of the metric and the difficulty of nailing it down.
+
 
 
 
