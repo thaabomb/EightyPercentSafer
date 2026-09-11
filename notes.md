@@ -209,6 +209,11 @@
 # Concept: The Metric
 - Write a chapter on the intricacies of the metric and the difficulty of nailing it down.
 
+# Concept: incidents are exponentially more frequent than accidents
+- Accidents are rare, incidents are common
+- If accidents are your only data source, you won't get much data
+- If you include data about incidents, you can collect a lot more data
+- The more data you collect, the more data you can analyze, the more insights you can gain
 
 
 
