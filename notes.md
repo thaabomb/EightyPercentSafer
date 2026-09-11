@@ -215,5 +215,8 @@
 - If you include data about incidents, you can collect a lot more data
 - The more data you collect, the more data you can analyze, the more insights you can gain
 
-
+# Idea: what if flight test data was incorporated into safety databases?
+- Could potential issues be detected early?
+- Could better products be designed?
+- Could this have prevented the 737MAX?
 
