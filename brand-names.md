@@ -50,6 +50,6 @@
 - Vigilant System Safety
 - whatever it is, call it a framework.
 - Safetientious
-
-
+- The Soteria Framework
+  - Soteria is the Greek Goddess of safety
 
