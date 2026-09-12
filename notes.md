@@ -187,6 +187,8 @@
   - I'm now trying to come up with a name for the total package.
   - I used to think that aviation was the first and only industry that had operations data monitoring, protected voluntary reporting, and a collaborative safety team.
     - Based on my ChatGPT research I now believe that this combination exists in other industries as well. Specifically, rail, nuclear power, and chemical processing.
+  - I used to think the US aviation was leading the way in safety
+    - Base on my ChatGPT research the US was not a leader in FDM. European airlines started FDM in 1974 but US airlines didn't start until 1995.
 
 # Concept: good, honest, highly-trained, hard-working people who are trying to do the right thing
 
