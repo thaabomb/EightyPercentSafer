@@ -185,6 +185,8 @@
   - A change in the culture from "the pilot is god" to CRM
   - A non-punitive response to mistakes. I believe this is upstream of the work that CAST does and I don't believe it's attributable to CAST.
   - I'm now trying to come up with a name for the total package.
+  - I used to think that aviation was the first and only industry that had operations data monitoring, protected voluntary reporting, and a collaborative safety team.
+    - Based on my ChatGPT research I now believe that this combination exists in other industries as well. Specifically, rail, nuclear power, and chemical processing.
 
 # Concept: good, honest, highly-trained, hard-working people who are trying to do the right thing
 
