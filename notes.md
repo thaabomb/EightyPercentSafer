@@ -62,6 +62,7 @@
 
 # Concept: Proactive approach vs reactive
 - My Dad says the Brits did proactive data analysis way before anyone else. Look into who was doing that and when it got started.
+- According to my ChatGPT research, British airlines as well as airlines from several other countries began FDM in 1974. US airlines didn't begin FOQA until 1995.
 
 # Concept: Architects of CAST
 - Edmond L. Soliday
