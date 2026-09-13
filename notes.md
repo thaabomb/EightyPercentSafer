@@ -225,3 +225,9 @@
 - Could better products be designed?
 - Could this have prevented the 737MAX?
 
+# Question: do we even have a book anymore?
+- According to my ChatGPT research, it sounds like aviation is not the only industry to use this model, US aviation wasn't the first to use it, and it's in widespread use in other industries.
+- My whole premis for this book was basically that aviation had discovered something that no one else knew. about and it hadn't been widely disseminated.
+- If lots of industries know about this, is it even worth writing a book?
+
+
