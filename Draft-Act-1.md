@@ -6,3 +6,6 @@ In order to meet this goal, two enterprising experts joined forces. They were FA
 
 The year is 2026. Commercial aviation in the US has just experienced an unprecedented era of safety and is arguably as safe as it has ever been. 30 years ago in 1996 the fatal accident rate had stopped declining and two major accidents appeared in the news in the same year. What transpired in that 30 year period to get us from there to here? Is a similar transformation possible in any industry, or is this level of improvement specific to aviation? This book hopes to explore these questions and more.
 
+How does one measure aviation safety? Well, that turns out to be easier said than done.
+
+
