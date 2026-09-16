@@ -52,4 +52,4 @@
 - Safetientious
 - The Soteria Framework
   - Soteria is the Greek Goddess of safety
-
+- The SaferIndustries Framework
