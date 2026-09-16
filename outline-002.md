@@ -7,13 +7,14 @@
   - Segue to Act II: how did the aviation industry achieve an 83% improvement in 10 years?
 - Describe the changes made by the aviation industry that enabled that result
   - The Legislation
+  - FOQA
   - GAIN
   - CAST
     - Specific safety enhancements
   - Segue to Act III: how can my industry do what aviation did?
 - Describe how nothing that was done is specific to aviation. Generalize the concepts and explain how they could be applied in any industry.
   - Non-punitive
-  - Confidential
+  - Confidential/Anonymous
   - Data-driven
   - Proactive
   - Collaborative
