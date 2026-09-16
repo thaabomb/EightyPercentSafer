@@ -229,5 +229,8 @@
 - According to my ChatGPT research, it sounds like aviation is not the only industry to use this model, US aviation wasn't the first to use it, and it's in widespread use in other industries.
 - My whole premis for this book was basically that aviation had discovered something that no one else knew. about and it hadn't been widely disseminated.
 - If lots of industries know about this, is it even worth writing a book?
+- Instead of focusing on the 83% reduction, maybe the focus should be on the 5 years with 0 fatalities.
+
+
 
 
