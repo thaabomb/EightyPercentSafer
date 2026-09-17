@@ -241,6 +241,16 @@
 - If lots of industries know about this, is it even worth writing a book?
 - Instead of focusing on the 83% reduction, maybe the focus should be on the 5 years with 0 fatalities.
 
+# Concept: fatal accident rate is a poor choice of metric
+- What if you drive the fatal accident rate to 0 (as aviation did). Will you stop improving safety at that point?
+- No, you simply need a deeper metric. This is where CAST's estimated "fatal accident risk" comes into play. 
+
+
+
+
+
+
+
 
 
 
