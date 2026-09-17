@@ -192,6 +192,7 @@
   - Base on my ChatGPT research the US was not a leader in FDM. European airlines started FDM in 1974 but US airlines didn't start until 1995.
 
 # Concept: good, honest, highly-trained, hard-working people who are trying to do the right thing
+- Not "stupid people who can't stop making mistakes"
 
 # Concept: Safety IS quality. Quality IS safety.
 - All safety issues are quality issues, but not all quality issues are safety issues.
