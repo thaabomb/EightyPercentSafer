@@ -113,6 +113,15 @@
     - Collaborative
       - This one is not like the others. The other three effectively form a data pipeline. Collaboration can be done with or without the data. Actually maybe that's wrong.
       - Is this specifically "collaborative implementation"?
+      - I think perhaps the "collabrative" pillar is necessary but not sufficient.
+      - The SAFEOPS Framework (or whatever you call it) specifically requires a collaborative safety team.
+    - Collaborative Safety Team
+      - Everyone who has a dog in the fight has a seat at the table. Industry, labor, and regulator.
+      - Identify hazards.
+      - Prioritize hazards.
+      - Design and implement safety enhancements.
+      - Monitor effectiveness.
+      - Estimate fatality risk.
 - Another big part of the fatality reduction was a change in the cockpit culture. I'm not sure this was caused by CAST either.
 - I'm not sure that the "non-punitive" pillar can be attributed to CAST.
 
