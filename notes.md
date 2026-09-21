@@ -245,6 +245,12 @@
 - What if you drive the fatal accident rate to 0 (as aviation did). Will you stop improving safety at that point?
 - No, you simply need a deeper metric. This is where CAST's estimated "fatal accident risk" comes into play. 
 
+# Concept: the biggest threat to your future successes is your past successes. l
+- If you complete a flight successfully you might erroneously conclude that your operations are safe and nothing needs to change.
+- FOQA/FDM turns this idea on its head. You must monitor every operation and look for small deviations that could become future disasters.
+- Need a larger sample size than just fatalities or accidents. Must look for incidents/UO.  
+
+
 
 
 
