@@ -10,4 +10,5 @@ My objectives are twofold. First, to inform you of the improvements in aviation 
 
 The challenge is, while I may be able to tell you a cute story about how the "fatal accident rate" or the "fatality risk" (which is it?) declined over the years, it will be very hard for me to tell you exactly why and provide evidence to support my claims.
 
-For someone who aims to help you improve safety, this is a big problem. I could tell you, in exacting detail, how to implement 
+For someone who aims to help you improve safety, this is a big problem. I could tell you, in exacting detail, how to implement a program similar to the ones implemented in aviation. But would this make your industry any safer? Maybe, maybe not.
+
