@@ -7,3 +7,7 @@ The only problem is, no one can say for certain WHY safety has improved. Was it 
 Some industries outside aviation have implemented safety programs similar to those in aviation and the evidence suggests they haven't improved safety at all. Did they implement them incorrectly? Do something differently than aviation? Are there other factors at play? Hard to say.
 
 My objectives are twofold. First, to inform you of the improvements in aviation safety between 1997 and 2007. And second to help you improve safety in your industry, whatever it may be.
+
+The challenge is, while I may be able to tell you a cute story about how the "fatal accident rate" or the "fatality risk" (which is it?) declined over the years, it will be very hard for me to tell you exactly why and provide evidence to support my claims.
+
+For someone who aims to help you improve safety, this is a big problem. I could tell you, in exacting detail, how to implement 
